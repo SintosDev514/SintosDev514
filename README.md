@@ -131,26 +131,6 @@ I'm a dedicated **Full-Stack Developer** with expertise in the **MERN stack (Mon
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SintosDev514&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SintosDev514&theme=radical&hide_border=true"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SintosDev514&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ### 🚀 Featured Projects
 Here are some of my standout projects that showcase my skills in full-stack development:
 
@@ -158,9 +138,7 @@ Here are some of my standout projects that showcase my skills in full-stack deve
 - **[Project Name 2](https://github.com/SintosDev514/project2)**: A brief description of the project, technologies used, and key features.
 - **[Project Name 3](https://github.com/SintosDev514/project3)**: A brief description of the project, technologies used, and key features.
 
-*(Replace with your actual project links and descriptions for a personalized touch.)*
 
----
 
 ### 🤝 Connect with Me
 <p align="center">
