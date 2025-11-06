@@ -39,21 +39,13 @@ I focus on building fast, scalable, and user-centric web applications with clean
   </a>
 </p>
 
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redmigithub&show_icons=true&theme=default&hide_border=true" alt="Redmi Gituv's GitHub stats"/>
-</p>
-
----
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/roberto-sintos-29765a35a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:redmigithub@example.com">
+  <a href="sintosroberto3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://portfolio.example.com" target="_blank">
