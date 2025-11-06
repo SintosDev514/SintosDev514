@@ -154,7 +154,7 @@ I'm a dedicated **Full-Stack Developer** with expertise in the **MERN stack (Mon
 ### 🚀 Featured Projects
 Here are some of my standout projects that showcase my skills in full-stack development:
 
-- **[Project Name 1](https://github.com/SintosDev514/project1)**: A brief description of the project, technologies used, and key features.
+- **[Project Name 1](https://coffe-system-frontend.vercel.app/)**: A brief description of the project, technologies used, and key features.
 - **[Project Name 2](https://github.com/SintosDev514/project2)**: A brief description of the project, technologies used, and key features.
 - **[Project Name 3](https://github.com/SintosDev514/project3)**: A brief description of the project, technologies used, and key features.
 
