@@ -131,6 +131,8 @@ I'm a dedicated **Full-Stack Developer** with expertise in the **MERN stack (Mon
   </a>
 </p>
 
+---
+
 ### 🚀 Featured Projects
 Here are some of my standout projects that showcase my skills in full-stack development:
 
