@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · sintosdev514</sub></p>
 <h1>Sintos Dev</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>full-stack engineer</h2>
 <p>Full-Stack Developer | Building software that solves real-world problems.</p>
 <p><strong>● Building and sharing work in public</strong></p>
 
